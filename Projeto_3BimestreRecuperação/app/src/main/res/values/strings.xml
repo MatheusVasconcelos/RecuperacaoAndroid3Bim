@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Projeto_3Bimestre</string>
+    <string name="height">Digite sua altura</string>
+    <string name="weight">Digite seu peso</string>
+    <string name="view_name1">Indice de Massa Corporea</string>
+    <string name="birth_day">Data de Nascimento(AAAA/MM/DD)</string>
+    <string name="male">Masculino</string>
+    <string name="female">Feminino</string>
+    <string name="sexo">Sexo:</string>
+    <string name="level">Nivel do Esporte:</string>
+    <string name="submit">Enviar</string>
+    <string name="imc">CALCULAR IMC</string>
+    <string name="vct">CALCULAR VCT</string>
+    <string name="profile">CALCULAR PERFIL ANTROPOMETRICO</string>
+</resources>
